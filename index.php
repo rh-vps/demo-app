@@ -24,7 +24,7 @@
         }
         img {
             margin-top: 20px;
-            width: 150px; /* Adjust the width as needed */
+            width: 200px; /* Adjust the width as needed */
         }
     </style>
 </head>
