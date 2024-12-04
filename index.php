@@ -37,10 +37,10 @@
     </style>
 </head>
 <body>
+    <!-- Display the image -->
+    <img src="vps.png" alt="VPS Image">
     <h1>Value Point Demo</h1>
     <h2>VM Migration</h2>
     <p><span class="blue-text">VMware vSphere to</span> <span class="red-text">OpenShift Container Platform Virtualization</span></p>
-    <!-- Display the image -->
-    <img src="vps.png" alt="VPS Image">
 </body>
 </html>
