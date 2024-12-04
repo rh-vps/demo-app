@@ -19,16 +19,6 @@
             font-size: 2em;
             color: #333;
         }
-        p {
-            font-size: 1.5em;
-            color: #555;
-        }
-        .blue-text {
-            color: blue; /* Blue color for VMware vSphere to */
-        }
-        .red-text {
-            color: red; /* Red color for OpenShift Container Platform Virtualization */
-        }
         img {
             margin-top: 20px;
             width: 200px; /* Adjust the width as needed */
@@ -39,8 +29,7 @@
 <body>
     <!-- Display the image -->
     <img src="vps.png" alt="VPS Image">
-    <h1>Value Point Demo</h1>
-    <h2>VM Migration</h2>
-    <p><span class="blue-text">VMware vSphere to</span> <span class="red-text">OpenShift Container Platform Virtualization</span></p>
+    <h1>Value Point Demo Red Hat OpenShift</h1>
+    <h2>App Modernisation</h2>
 </body>
 </html>
