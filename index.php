@@ -29,7 +29,7 @@
 <body>
     <!-- Display the image -->
     <img src="vps.png" alt="VPS Image">
-    <h1>Value Point Demo Red Hat OpenShift</h1>
+    <h1>Value Point Demo - Red Hat OpenShift</h1>
     <h2>App Modernisation</h2>
 </body>
 </html>
