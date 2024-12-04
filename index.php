@@ -6,23 +6,25 @@
     <title>Value Point Demo</title>
     <style>
         body {
-            background-color: white;
             font-family: Arial, sans-serif;
-            text-align: center;
-            padding: 50px;
+            text-align: center; /* Centers all content within the body */
+            margin: 0;
+            padding: 0;
+            height: 100vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: center; /* Vertically centers the content */
+            align-items: center; /* Horizontally centers the content */
         }
         h1 {
-            font-size: 2.5em;
             color: red;
         }
         h2 {
-            font-size: 2em;
-            color: #333;
+            color: black;
         }
         img {
             margin-top: 20px;
-            width: 200px; /* Adjust the width as needed */
-            height: auto;
+            width: 150px; /* Adjust the width as needed */
         }
     </style>
 </head>
