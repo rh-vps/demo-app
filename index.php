@@ -10,7 +10,7 @@
             text-align: center; /* Centers all content within the body */
             margin: 0;
             padding: 0;
-            height: 80vh;
+            height: 50vh;
             display: flex;
             flex-direction: column;
             justify-content: center; /* Vertically centers the content */
